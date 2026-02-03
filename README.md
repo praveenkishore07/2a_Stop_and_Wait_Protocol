@@ -65,10 +65,10 @@ client_socket.send("exit".encode())
 client_socket.close()
 ```
 ## OUTPUT
-Server :
+##Server :
 <img width="637" height="337" alt="server output" src="https://github.com/user-attachments/assets/731b9c67-358d-4310-b6b0-3f4b8f0ae5da" />
 
-Client :
+##Client :
 <img width="652" height="322" alt="client output" src="https://github.com/user-attachments/assets/f31fddca-ac3d-4864-a319-f4a4b743727b" />
 
 
